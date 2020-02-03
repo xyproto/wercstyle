@@ -1,6 +1,6 @@
 -- Global configuration
 fields = {
-  sitename = "Werc",
+  sitename = "Wercstyle",
 }
 
 -- Store global variables as Lua code in the database.
