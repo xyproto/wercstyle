@@ -1,0 +1,91 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+
+  <title>{{ sitename }} - A sane web anti-framework</title>
+
+    <link rel="stylesheet" href="/style/style.css" type="text/css" media="screen, handheld" title="default">
+    <link rel="shortcut icon" href="/img/favicon.ico" type="image/vnd.microsoft.icon">
+    <link rel="stylesheet" href="/style/style.css" type="text/css" media="screen" title="default">
+
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+</head>
+<body>
+
+<div id="header">
+    <div class="superHeader">
+    <div class="left">
+      <a href="http://quotes.cat-v.org">quotes</a> |
+      <a href="http://doc.cat-v.org">docs</a> |
+      <a href="http://repo.cat-v.org">repo</a> |
+      <a href="http://go-lang.cat-v.org">golang</a> |
+      <a href="http://sam.cat-v.org">sam</a> |
+      <a href="http://man.cat-v.org">man</a> |
+      <a href="http://acme.cat-v.org">acme</a> |
+      <a href="http://glenda.cat-v.org">Glenda</a> |
+      <a href="http://ninetimes.cat-v.org">9times</a> |
+      <a href="http://harmful.cat-v.org">harmful</a> |
+      <a href="http://9p.cat-v.org/">9P</a> |
+      <a href="http://cat-v.org">cat-v.org</a>
+    </div>
+
+    <div class="right">
+
+      <span class="doNotDisplay">Related sites:</span>
+      | <a href="http://cat-v.org/update_log">site updates</a>
+      | <a href="/sitemap">site map</a> |
+
+    </div>
+
+    </div>
+
+    <div class="midHeader">
+    <h1 class="headerTitle"><a href="/">werc <span id="headerSubTitle">Bringing minimalism and sanity to the web</span></a></h1>
+    </div>
+
+    <div class="subHeader"><br></div>
+</div>
+
+    <div id="side-bar">
+        <div>
+<ul>
+<li><a href="/apps/">&rsaquo; apps/</a></li>
+<li><a href="/development/">&rsaquo; development/</a></li>
+<li><a href="/docs/">&rsaquo; docs/</a></li>
+<li><a href="/download/">&rsaquo; download/</a></li>
+<li><a href="/news/">&rsaquo; news/</a></li>
+<li><a href="/powered">&rsaquo; powered</a></li>
+<li><a href="/testimonials">&rsaquo; testimonials</a></li>
+<li><a href="/wiki/">&rsaquo; wiki/</a></li>
+</ul>
+        </div>
+    </div>
+
+<div id="main-copy">
+
+{% autoescape off %}{{ contents }}{% endautoescape %}
+
+</div>
+
+<div id="footer">
+<br class="doNotDisplay doNotPrint" />
+
+<div class="left"><a href="http://werc.cat-v.org/">Powered by werc</a></div>
+
+<div class="right">
+<form action="http://www.google.com/cse" id="cse-search-box" style="display: inline">
+  <div style="display: inline">
+    <input type="hidden" name="cx" value="partner-pub-2060328396151526:ea9sar-xttn" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="32" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+
+
+</div>
+</body></html>
+
