@@ -2,4 +2,4 @@
 
 A werc lookalike, for Algernon.
 
-# WORK IN PROGRESS
+Just a quick example.
