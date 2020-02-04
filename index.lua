@@ -9,7 +9,7 @@ end
 function main()
   CodeLib():import("globals")
   local mdContents = markdown(read_file("main.md"))
-  serve2("main.po2", {contents=mdContents, sitename=sitename})
+  serve2("common.po2", {contents=mdContents, sitename=sitename})
 end
 
 main()
