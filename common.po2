@@ -42,7 +42,7 @@
     </div>
 
     <div class="midHeader">
-    <h1 class="headerTitle"><a href="/">werc <span id="headerSubTitle">Bringing minimalism and sanity to the web</span></a></h1>
+    <h1 class="headerTitle"><a href="/">wercstyle <span id="headerSubTitle">A werc lookalike</span></a></h1>
     </div>
 
     <div class="subHeader"><br></div>
@@ -72,7 +72,7 @@
 <div id="footer">
 <br class="doNotDisplay doNotPrint" />
 
-<div class="left"><a href="http://werc.cat-v.org/">Powered by werc</a></div>
+<div class="left"><a href="https://github.com/xyproto/wercstyle">Powered by wercstyle</a></div>
 
 <div class="right">
 <form action="http://www.google.com/cse" id="cse-search-box" style="display: inline">
