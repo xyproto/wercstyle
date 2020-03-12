@@ -1,3 +1,3 @@
 # Powered
 
-This is the contents of the powered page.
+This is the content of the powered page.

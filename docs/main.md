@@ -1,3 +1,3 @@
 # Docs
 
-This is the contents of the docs page.
+This is the content of the docs page.

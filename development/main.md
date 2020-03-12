@@ -1,3 +1,3 @@
 # Development
 
-This is the contents of the development page.
+This is the content of the development page.

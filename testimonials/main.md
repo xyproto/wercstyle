@@ -1,3 +1,3 @@
 # Apps
 
-This is the contents of the apps page.
+This is the content of the apps page.

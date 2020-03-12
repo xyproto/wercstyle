@@ -1,3 +1,3 @@
 # Download
 
-This is the contents of the download page.
+This is the content of the download page.

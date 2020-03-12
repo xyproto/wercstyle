@@ -1,3 +1,3 @@
 # Main
 
-This is the contents of the main page.
+This is the content of the main page.

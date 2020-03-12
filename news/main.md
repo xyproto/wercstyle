@@ -1,3 +1,3 @@
 # News
 
-This is the contents of the news page.
+This is the content of the news page.
