@@ -15,3 +15,7 @@ A werc lookalike, for Algernon.
 * `make` to build `werc.alg`
 * `make run` to serve `werc.alg` at port 9000
 * `make debug` to serve the current directory at port 9000
+
+## General info
+
+* Version: 1.0.0
